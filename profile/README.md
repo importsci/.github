@@ -7,7 +7,7 @@
 
 > Disseminar o pensamento data driven pelo mundo!
 
-Import Sci é um projeto aberto onde aprendemos, criamos e compartilhamos conhecimento sobre data science, ajudando pessoas de diversas áreas e contextos a se tornarem cientistas de dados.
+Import Sci é um projeto open source onde compartilhamos conhecimento sobre data science, ajudando pessoas de diversas áreas e contextos a se tornarem cientistas de dados.
 
 ## 🎯 Objetivo
 
