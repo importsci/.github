@@ -3,7 +3,7 @@
 ![logo-sci-verde-cerebro](https://user-images.githubusercontent.com/45513854/174713055-53a1de18-7411-4f79-8fce-aa9e0fd48014.jpg)
 
 
-## 🔥Propósito
+## 🔥 Propósito
 
 > Disseminar o pensamento data driven pelo mundo!
 
@@ -18,7 +18,7 @@ Para isso nós aprendemos, criarmos e compartilhar conhecimento de data science 
 ![Processo iterativo Import Sci](https://user-images.githubusercontent.com/45513854/175793754-b1f45e2b-a936-4ae0-b6c3-752623143fd3.png)
 
 
-## ✨ Nossos princípios
+## ✨ Princípios
 
 - **Simplicidade:** se não conseguimos explicar de forma simples, não entendemos bem o suficiente.
 - **Baseado na ciência:** faça perguntas, crie hipóteses, teste-as e repita o processo.
