@@ -15,7 +15,7 @@ Ser uma das melhores fontes de conhecimento sobre data science, ajudando novos c
 
 Para isso nós aprendemos, criarmos e compartilhar conhecimento de data science de forma simples e aberta para todos. Nós iteramos nesse processo e evoluimos junto com a comunidade.
 
-![Processo iterativo Import Sci](https://user-images.githubusercontent.com/45513854/175793537-8e9b1e79-1a16-4aaf-80a9-c918e7c33d1d.png)
+![Processo iterativo Import Sci](https://user-images.githubusercontent.com/45513854/175793754-b1f45e2b-a936-4ae0-b6c3-752623143fd3.png)
 
 
 ## ✨ Nossos princípios
