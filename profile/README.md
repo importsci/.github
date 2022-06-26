@@ -22,7 +22,7 @@ Para isso nós aprendemos, criarmos e compartilhar conhecimento de data science 
 - **Simplicidade:** se não conseguimos explicar de forma simples, não entendemos bem o suficiente.
 - **Baseado na ciência:** faça perguntas, crie hipóteses, teste-as e repita o processo.
 - **Colaboração:** juntos podemos criar coisas e resolver problemas que não somos capazes de fazer sozinhos.
-- **Comunidade aberta:** todos podem se juntar, buscar o mesmo propósito e respeitar nossos valores.
+- **Comunidade aberta:** todos podem se participar e contribuir com nosso propósito.
 - **Ideias, não hierarquia:** boas ideia podem vir de qualquer lugar e as melhor devem prevalecer.
 
 ------
