@@ -23,7 +23,7 @@ Para isso nós aprendemos, criarmos e compartilhar conhecimento de data science 
 - **Baseado na ciência:** faça perguntas, crie hipóteses, teste-as e repita o processo.
 - **Colaboração:** juntos podemos criar coisas e resolver problemas que não somos capazes de fazer sozinhos.
 - **Comunidade aberta:** todos podem se participar e contribuir com nosso propósito.
-- **Ideias, não hierarquia:** boas ideia podem vir de qualquer lugar e as melhor devem prevalecer.
+- **Ideias, não hierarquia:** boas ideias podem vir de qualquer lugar e as melhores devem prevalecer.
 
 ------
 
