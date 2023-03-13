@@ -11,7 +11,7 @@ Import Sci é um projeto open source onde compartilhamos conhecimento sobre data
 
 ### 🚀 Objetivo
 
-Nosso objetivo é ser uma das melhores comunidades de troca de conhecimento sobre data science, ajudando desde iniciantes até especialistas de diversas áreas a trilharem sua jornada no mundo de dados.
+Nosso objetivo é ser uma das melhores comunidades de troca de conhecimento sobre data science, ajudando desde iniciantes até especialistas de diversas áreas a trilharem sua jornada pelo mundo dos dados.
 
 Para isso nós aprendemos, criarmos e compartilhar conhecimento de data science de forma simples e aberta para todos. Nós iteramos nesse processo e evoluimos junto com a comunidade.
 
