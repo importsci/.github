@@ -1,7 +1,6 @@
 ## Olá, bem vindo 👋
 
-![capa-sci-verde](https://user-images.githubusercontent.com/45513854/227416206-604818a1-65eb-46ac-bbf0-93a7a53320d6.png)
-
+![capa-sci-verde](https://user-images.githubusercontent.com/45513854/227421667-818deed5-4337-48df-9858-b50d01cb4b99.png)
 
 ## 🔥 Propósito
 
