@@ -4,7 +4,7 @@
 
 ## Propósito
 
-> Disseminar o pensamento data driven pelo mundo!
+> Difundir conhecimento sobre data science, tornando acessível e útil para todos.
 
 Import Sci é um projeto open source onde compartilhamos conhecimento sobre data science aberto para toda a comunidade, ajudando pessoas de diversas contextos a aplicar o conhecimento de dados em suas áreas.
 
