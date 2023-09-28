@@ -24,6 +24,14 @@ Para isso nós aprendemos, criarmos e compartilhamos conhecimento de data scienc
 - **Comunidade aberta:** todos podem participar e contribuir com nosso propósito.
 - **Ideias, não hierarquia:** boas ideias podem vir de qualquer lugar e as melhores devem prevalecer.
 
+## Canais
+- [Medium:](https://medium.com/importsci) artigos em texto compartilhando aprendizados e insights relevantes.
+- [Youtube:](https://www.youtube.com/@importsci) vídeos onde compartilhamos conhecimento e desenvolvemos projetos.
+- [Twitter / X:](https://twitter.com/importsci) novidades e insights rápidos. 
+- [Comunidade no Discord:](https://discord.gg/d8KSdfhh) troque experiências e conhecimentos com outros cientistas!
+
+
+
 ------
 
 Seja bem vindo, aproveite o conteúdo e contribua com a comunidade!
