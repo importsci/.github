@@ -4,7 +4,9 @@
 
 ## Propósito
 
-> Difundir conhecimento sobre data science, tornando acessível e útil para todos.
+
+![Difundir conhecimento sobre data science, tornando acessível e útil para todos.](https://github.com/importsci/.github/assets/45513854/31b57158-cb42-4470-924b-d17b78b656c0)
+
 
 Import Sci é um projeto open source onde compartilhamos conhecimento sobre data science aberto para toda a comunidade, ajudando pessoas de diversas contextos a aplicar o conhecimento de dados em suas áreas.
 
