@@ -18,7 +18,7 @@ Para isso nós aprendemos, criarmos e compartilhamos conhecimento de data scienc
 
 ![Processo iterativo Import Sci](https://user-images.githubusercontent.com/45513854/175794508-24e61b26-f22d-4adc-b79c-a4114dd6cec4.png)
 
-## Princípios da comunidade
+## Princípios do projeto
 
 - **Incentivamos a colaboração:** valorizamos a troca de conhecimento, ideias, e experiências, gerando um ambiente colaborativo e inovador.
 - **Não sabemos de tudo:** estamos sempre questionando, criando hipóteses, testando e aprendendo.
