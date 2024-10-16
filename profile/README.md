@@ -8,13 +8,13 @@
 ![Difundir conhecimento sobre data science, tornando acessível e útil para todos.](https://github.com/importsci/.github/assets/45513854/31b57158-cb42-4470-924b-d17b78b656c0)
 
 
-Import Sci é um projeto open knowledge onde compartilhamos conhecimento sobre data science aberto para toda a comunidade, ajudando pessoas de diversos contextos a aplicar o conhecimento de dados em suas áreas.
+O Import Sci é um projeto de open knowledge no qual compartilhamos conhecimento sobre data science, aberto para toda a comunidade, ajudando pessoas de diversos contextos a aplicarem o conhecimento de dados em suas áreas.
 
 ## Objetivo
 
-Nosso objetivo é ser uma das melhores comunidades de troca de conhecimento sobre data science, ajudando desde iniciantes até especialistas de diversas áreas a trilharem sua jornada pelo mundo dos dados.
+Nosso objetivo é ser uma das melhores comunidades de troca de conhecimento sobre data science, ajudando desde iniciantes até especialistas de diversas áreas a trilharem suas jornadas pelo mundo dos dados.
 
-Para isso nós aprendemos, criarmos e compartilhamos conhecimento de data science de forma simples e aberta para todos. Nós iteramos nesse processo e evoluimos junto com a comunidade.
+Para isso, nós aprendemos, criamos e compartilhamos conhecimento de data science de forma simples e aberta para todos. Nós iteramos nesse processo e evoluímos junto com a comunidade.
 
 ![Processo iterativo Import Sci](https://user-images.githubusercontent.com/45513854/175794508-24e61b26-f22d-4adc-b79c-a4114dd6cec4.png)
 
@@ -24,7 +24,7 @@ Para isso nós aprendemos, criarmos e compartilhamos conhecimento de data scienc
 - **Não sabemos de tudo:** estamos sempre questionando, criando hipóteses, testando e aprendendo.
 - **Valorizamos a simplicidade:** se não podemos explicar algo de forma simples, ainda não o entendemos suficientemente.
 - **Somos open source:** todos podem participar e contribuir com nosso propósito.
-- **Priorizamos ideias, não hierarquia:** boas ideias podem vir de qualquer lugar e as melhores devem prevalecer.
+- **Priorizamos ideias, não hierarquias:** boas ideias podem vir de qualquer lugar e as melhores devem prevalecer.
 
 
 ## Canais
